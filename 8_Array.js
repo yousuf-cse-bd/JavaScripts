@@ -1,9 +1,9 @@
 /**
  * @file 8_Array.js
  * @author: Md. Yousuf Ali (yousuf.cse17@gmail.com)
- * @brief Array list and its buil-in methods
+ * @brief Array list and its built-in methods
  * @version: 0.1
- * @date 2023-01-30
+ * @date 2023-01-31
  * @since TuesDay; 11:36 AM
  * @copyright Copyright (c) 2023
  * @institute Dept. of CSE, Varendra University, Rajshahi, Bangladesh
